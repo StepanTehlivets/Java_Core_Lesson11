@@ -18,7 +18,8 @@ public class Application {
 			}
 
 		}
-		System.out.println(arrayCars);
+
+
 		while (true) {
 			Menu.menu();
 			Scanner sc = new Scanner(System.in);
